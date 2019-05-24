@@ -6,7 +6,7 @@
 2. Set instance variable attributes from initialize.
 3. Include a default argument for an initialize argument.
 
-## Overview
+## Overvie
 
 You're going to be building a `Person` class that accepts a person's name when a
 person is initialized. You're also going to be building a `Dog` class that
